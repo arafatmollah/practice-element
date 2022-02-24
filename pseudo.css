@@ -30,3 +30,24 @@ div>p:first-child{
     background-color: rgb(133, 131, 131);
     color: white;
 }
+li:nth-child(2){
+    color: white;
+    background-color: green;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 22px;
+}
+li:nth-child(5){
+    background-color: yellow;
+    font-family: cursive;
+    font-size: 20px;
+    color: blue;
+}
+h2::before{
+    content: "this is a befire";
+    font-size: 20px;
+    font-style: italic;
+
+}
+h2::after{
+    content: "mama diba toxic";
+}
