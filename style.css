@@ -1,0 +1,12 @@
+p{
+    background-color: blue;
+    width: 50%;
+    height: 80px;
+    text-align: center;
+}
+form{
+    height: 50px;
+    margin: 30px;
+    padding: 20px;
+    background-color: rgba(243, 37, 37, 0.226);
+}
