@@ -1,0 +1,28 @@
+.static{
+    position: static;
+    background-color: pink;
+    margin: 10px;
+    padding: 10px;
+    border: 4px solid gray;
+}
+.relative{
+    position: relative;
+    background-color: green;
+    margin: 10px;
+    padding: 10px;
+    border: 2px solid red;
+}
+.abosolute{
+    position: absolute;
+    background-color: green;
+    margin: 10px;
+    padding: 10px;
+    border: 2px solid red;
+}
+.fixed{
+    position: fixed;
+    background-color: green;
+    margin: 10px;
+    padding: 10px;
+    border: 2px solid red;
+}
